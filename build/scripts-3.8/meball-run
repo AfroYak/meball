@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!python
 # -*- coding: utf-8 -*-
 from meball import try_me
 

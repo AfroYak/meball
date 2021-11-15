@@ -1,10 +1,6 @@
 # Data analysis
 - Document here the project: meball
-- Description: Project Description
-- Data Source:
-- Type of analysis:
-
-Please document the project the better you can.
+- Description: Magic 8 Ball 
 
 # Startup the project
 
@@ -35,7 +31,7 @@ git push -u origin master
 git push -u origin --tags
 ```
 
-Functionnal test with a script:
+Functional test with a script:
 
 ```bash
 cd
